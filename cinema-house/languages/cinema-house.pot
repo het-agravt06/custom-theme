@@ -1,0 +1,1643 @@
+# Copyright (C) 2026 pewilliams
+# This file is distributed under the GNU General Public License.
+msgid ""
+msgstr ""
+"Project-Id-Version: Cinema House 2.9\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/cinema-house\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2026-03-12T03:08:21+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.11.0\n"
+"X-Domain: cinema-house\n"
+
+#. Theme Name of the theme
+#: style.css
+#: block-patterns.php:17
+msgid "Cinema House"
+msgstr ""
+
+#. Theme URI of the theme
+#: style.css
+msgid "https://www.ovationthemes.com/products/free-movie-wordpress-theme"
+msgstr ""
+
+#. Description of the theme
+#: style.css
+msgid "The Cinema House Theme is a dynamic, visually engaging, and fully responsive template tailored for movie theatres, cinema halls, film festivals, and production studios. It incorporates rich video and animation elements to create an immersive viewing experience. This versatile theme is perfect for showcasing movie schedules, upcoming film releases, private screenings, cinema events, and fan meetups, allowing owners to effectively promote loyalty programs, online ticket booking, film reviews, and special screenings. With customizable sections, it facilitates hosting cinema events, newsletters, career listings, FAQs, promotions, catering services, and audience feedback forms. Its modern design, high-quality visuals, and social media integration help connect with audiences across various channels while highlighting updates in the entertainment industry, live performances, and seasonal offers. Optimized for SEO, fast loading speed, and mobile responsiveness, the theme ensures a seamless experience across all devices. Integrated with The Events Calendar plugin, it simplifies event scheduling, ticket management, and film promotion, making Cinema House an excellent choice for multiplexes, independent theatres, streaming platforms, and venues that aim to strengthen their digital presence in the arts and culture."
+msgstr ""
+
+#. Author of the theme
+#: style.css
+msgid "pewilliams"
+msgstr ""
+
+#. Author URI of the theme
+#: style.css
+msgid "https://www.ovationthemes.com/"
+msgstr ""
+
+#: custom-setting.php:17
+msgid "Theme Settings"
+msgstr ""
+
+#: custom-setting.php:34
+msgid "Animation Settings"
+msgstr ""
+
+#: custom-setting.php:41
+msgid "Enable Animations"
+msgstr ""
+
+#: inc/admin/theme-upsell.php:16
+msgid "Cinema House Pro"
+msgstr ""
+
+#: inc/admin/theme-upsell.php:29
+msgid "Upgrade to Cinema House Pro 🚀"
+msgstr ""
+
+#: inc/admin/theme-upsell.php:34
+msgid "Take Your Cinema House Business to the Next Level"
+msgstr ""
+
+#: inc/admin/theme-upsell.php:35
+msgid "Get access to premium features, advanced layouts, and priority support"
+msgstr ""
+
+#: inc/admin/theme-upsell.php:42
+msgid "Site Editor"
+msgstr ""
+
+#: inc/admin/theme-upsell.php:47
+msgid "Customize"
+msgstr ""
+
+#: inc/admin/theme-upsell.php:55
+msgid "Begin Installation"
+msgstr ""
+
+#: inc/admin/theme-upsell.php:59
+msgid "View Site"
+msgstr ""
+
+#: inc/admin/theme-upsell.php:67
+#: inc/dashboard/welcome-notice.php:215
+msgid "Live Demo"
+msgstr ""
+
+#: inc/admin/theme-upsell.php:71
+#: inc/dashboard/welcome-notice.php:216
+msgid "Get Pro Theme"
+msgstr ""
+
+#: inc/admin/theme-upsell.php:75
+msgid "Documentation"
+msgstr ""
+
+#: inc/admin/theme-upsell.php:79
+msgid "WordPress Theme Bundle"
+msgstr ""
+
+#: inc/admin/theme-upsell.php:84
+msgid "Cinema House Theme Screenshot"
+msgstr ""
+
+#: inc/admin/theme-upsell.php:90
+msgid "Why Upgrade to Pro?"
+msgstr ""
+
+#: inc/admin/theme-upsell.php:95
+msgid "Different styling Options"
+msgstr ""
+
+#: inc/admin/theme-upsell.php:96
+msgid "This content will change based on different styling options."
+msgstr ""
+
+#: inc/admin/theme-upsell.php:101
+msgid "Section Reordering Option"
+msgstr ""
+
+#: inc/admin/theme-upsell.php:102
+msgid "Sections can be reordered or rearranged as per your preference."
+msgstr ""
+
+#: inc/admin/theme-upsell.php:107
+msgid "Footer Builder"
+msgstr ""
+
+#: inc/admin/theme-upsell.php:108
+msgid "Create custom footers with advanced widgets"
+msgstr ""
+
+#: inc/admin/theme-upsell.php:113
+#: inc/admin/theme-upsell.php:168
+#: inc/customizer/customizer.php:32
+msgid "Typography Controls"
+msgstr ""
+
+#: inc/admin/theme-upsell.php:114
+msgid "Full control over fonts, sizes, and text styling"
+msgstr ""
+
+#: inc/admin/theme-upsell.php:119
+#: inc/admin/theme-upsell.php:173
+msgid "WooCommerce Styling"
+msgstr ""
+
+#: inc/admin/theme-upsell.php:120
+msgid "Advanced WooCommerce integration with custom product layouts"
+msgstr ""
+
+#: inc/admin/theme-upsell.php:125
+msgid "Advanced Options"
+msgstr ""
+
+#: inc/admin/theme-upsell.php:126
+msgid "Advanced theme options available for themes"
+msgstr ""
+
+#: inc/admin/theme-upsell.php:131
+msgid "Performance Optimized"
+msgstr ""
+
+#: inc/admin/theme-upsell.php:132
+msgid "3X faster loading with optimized code and assets"
+msgstr ""
+
+#: inc/admin/theme-upsell.php:137
+#: inc/admin/theme-upsell.php:193
+#: inc/customizer/customizer.php:34
+msgid "Priority Support"
+msgstr ""
+
+#: inc/admin/theme-upsell.php:138
+msgid "Get expert help within 24 hours through our priority support system"
+msgstr ""
+
+#: inc/admin/theme-upsell.php:143
+msgid "Unlimited Color Schemes"
+msgstr ""
+
+#: inc/admin/theme-upsell.php:144
+msgid "Customize every color to match your brand identity with unlimited color options"
+msgstr ""
+
+#: inc/admin/theme-upsell.php:149
+#: inc/customizer/customizer.php:35
+msgid "One-Click Demo Import"
+msgstr ""
+
+#: inc/admin/theme-upsell.php:150
+msgid "Import complete demo content with just one click and get started instantly"
+msgstr ""
+
+#: inc/admin/theme-upsell.php:156
+msgid "Free vs Pro Comparison"
+msgstr ""
+
+#: inc/admin/theme-upsell.php:161
+msgid "Feature"
+msgstr ""
+
+#: inc/admin/theme-upsell.php:162
+msgid "Free"
+msgstr ""
+
+#: inc/admin/theme-upsell.php:163
+msgid "Pro"
+msgstr ""
+
+#: inc/admin/theme-upsell.php:169
+#: inc/admin/theme-upsell.php:184
+msgid "Limited"
+msgstr ""
+
+#: inc/admin/theme-upsell.php:170
+msgid "Full Control"
+msgstr ""
+
+#: inc/admin/theme-upsell.php:178
+msgid "Custom Widgets"
+msgstr ""
+
+#: inc/admin/theme-upsell.php:179
+msgid "Basic"
+msgstr ""
+
+#: inc/admin/theme-upsell.php:180
+#: inc/admin/theme-upsell.php:225
+msgid "Advanced"
+msgstr ""
+
+#: inc/admin/theme-upsell.php:183
+msgid "Color Schemes"
+msgstr ""
+
+#: inc/admin/theme-upsell.php:185
+msgid "Unlimited"
+msgstr ""
+
+#: inc/admin/theme-upsell.php:188
+msgid "Demo Import"
+msgstr ""
+
+#: inc/admin/theme-upsell.php:198
+msgid "Custom Post Types"
+msgstr ""
+
+#: inc/admin/theme-upsell.php:203
+msgid "Page Builder Integration"
+msgstr ""
+
+#: inc/admin/theme-upsell.php:204
+msgid "Gutenberg"
+msgstr ""
+
+#: inc/admin/theme-upsell.php:205
+msgid "Gutenberg/Customizer"
+msgstr ""
+
+#: inc/admin/theme-upsell.php:208
+msgid "Speed Optimization"
+msgstr ""
+
+#: inc/admin/theme-upsell.php:209
+msgid "Standard"
+msgstr ""
+
+#: inc/admin/theme-upsell.php:210
+msgid "Advanced (3X Faster)"
+msgstr ""
+
+#: inc/admin/theme-upsell.php:213
+msgid "Sticky Header"
+msgstr ""
+
+#: inc/admin/theme-upsell.php:218
+msgid "Preloader Options"
+msgstr ""
+
+#: inc/admin/theme-upsell.php:223
+msgid "Blog Layouts"
+msgstr ""
+
+#: inc/admin/theme-upsell.php:224
+msgid "1"
+msgstr ""
+
+#: inc/admin/theme-upsell.php:232
+msgid "What Our Users Say"
+msgstr ""
+
+#: inc/admin/theme-upsell.php:237
+msgid "\"I was looking for a clean and professional theme for my cinema house website and this theme delivered exactly that. Setup was quick and the layout looks very modern.\""
+msgstr ""
+
+#: inc/admin/theme-upsell.php:238
+msgid "- John D."
+msgstr ""
+
+#: inc/admin/theme-upsell.php:243
+msgid "\"The theme design is professional and easy to customize. The documentation helped me set up my accounting website without any issues.\""
+msgstr ""
+
+#: inc/admin/theme-upsell.php:244
+msgid "- Sarah M."
+msgstr ""
+
+#: inc/admin/theme-upsell.php:249
+msgid "\"Very flexible and beginner-friendly. I was able to adjust colors, sections, and layouts directly from the Customizer. Highly recommended.\""
+msgstr ""
+
+#: inc/admin/theme-upsell.php:250
+msgid "- Michael R."
+msgstr ""
+
+#: inc/admin/theme-upsell.php:255
+msgid "\"The mobile responsive design works perfectly. Most of my clients visit from their phones, and the site looks clean and professional.\""
+msgstr ""
+
+#: inc/admin/theme-upsell.php:256
+msgid "- Emily T."
+msgstr ""
+
+#: inc/admin/theme-upsell.php:261
+msgid "\"Great theme for tax professionals. The service sections and homepage layout helped me present my services clearly to potential clients.\""
+msgstr ""
+
+#: inc/admin/theme-upsell.php:262
+msgid "- David L."
+msgstr ""
+
+#: inc/admin/theme-upsell.php:267
+msgid "\"Customer support is very helpful and responsive. They guided me during setup and solved my issue quickly.\""
+msgstr ""
+
+#: inc/admin/theme-upsell.php:268
+msgid "- Jennifer K."
+msgstr ""
+
+#: inc/admin/theme-upsell.php:273
+msgid "\"Fast loading and SEO friendly. After launching my website with this theme, I started receiving more inquiries from clients.\""
+msgstr ""
+
+#: inc/admin/theme-upsell.php:274
+msgid "- Robert H."
+msgstr ""
+
+#: inc/admin/theme-upsell.php:279
+msgid "\"A very good theme with useful features for financial and consulting businesses. Easy to install and configure.\""
+msgstr ""
+
+#: inc/admin/theme-upsell.php:280
+msgid "- Lisa P."
+msgstr ""
+
+#: inc/admin/theme-upsell.php:286
+msgid "Ready to Upgrade?"
+msgstr ""
+
+#: inc/admin/theme-upsell.php:287
+msgid "Join hundreds of satisfied customers who upgraded to Pro"
+msgstr ""
+
+#: inc/admin/theme-upsell.php:289
+msgid "Get Cinema House Pro Now"
+msgstr ""
+
+#: inc/admin/theme-upsell.php:294
+msgid "Need help? Contact our <a href=\"%s\" target=\"_blank\">support</a> team anytime."
+msgstr ""
+
+#: inc/customizer/customizer.php:14
+msgid "🔒 Unlock Premium Features"
+msgstr ""
+
+#: inc/customizer/customizer.php:27
+msgid "Unlock Advanced Features"
+msgstr ""
+
+#: inc/customizer/customizer.php:28
+msgid "Upgrade to Pro to get:"
+msgstr ""
+
+#: inc/customizer/customizer.php:30
+msgid "12+ Premium Header Layouts"
+msgstr ""
+
+#: inc/customizer/customizer.php:31
+msgid "Advanced Footer Builder"
+msgstr ""
+
+#: inc/customizer/customizer.php:33
+msgid "WooCommerce Styling Options"
+msgstr ""
+
+#: inc/customizer/customizer.php:39
+msgid "View All Features"
+msgstr ""
+
+#: inc/customizer/customizer.php:43
+msgid "Upgrade Now 🚀"
+msgstr ""
+
+#: inc/customizer/customizer.php:47
+msgid "WordPress Bundle 🎁"
+msgstr ""
+
+#: inc/dashboard/dashboard.php:4
+msgid "https://wordpress.org/support/theme/cinema-house/"
+msgstr ""
+
+#: inc/dashboard/dashboard.php:7
+msgid "https://wordpress.org/support/theme/cinema-house/reviews/"
+msgstr ""
+
+#: inc/dashboard/dashboard.php:10
+msgid "https://trial.ovationthemes.com/cinema-house/"
+msgstr ""
+
+#: inc/dashboard/dashboard.php:13
+msgid "https://www.ovationthemes.com/products/cinema-wordpress-theme"
+msgstr ""
+
+#: inc/dashboard/dashboard.php:16
+msgid "https://trial.ovationthemes.com/docs/cinema-house-pro-doc/"
+msgstr ""
+
+#: inc/dashboard/dashboard.php:19
+msgid "https://trial.ovationthemes.com/docs/cinema-house-free-doc/"
+msgstr ""
+
+#: inc/dashboard/dashboard.php:22
+msgid "Premium Cinema House Theme"
+msgstr ""
+
+#: inc/dashboard/dashboard.php:25
+msgid "https://www.ovationthemes.com/products/wordpress-bundle"
+msgstr ""
+
+#: inc/dashboard/welcome-notice.php:51
+#: inc/dashboard/welcome-notice.php:89
+#: inc/TGM/tgm.php:17
+msgid "Ovation Elements"
+msgstr ""
+
+#: inc/dashboard/welcome-notice.php:211
+msgid "For information and detailed instructions, check out our theme documentation."
+msgstr ""
+
+#: inc/dashboard/welcome-notice.php:214
+msgid "Theme Informations"
+msgstr ""
+
+#: inc/TGM/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/TGM/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: inc/TGM/class-tgm-plugin-activation.php:330
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: inc/TGM/class-tgm-plugin-activation.php:332
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: inc/TGM/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#. translators: 1: plugin name(s).
+#: inc/TGM/class-tgm-plugin-activation.php:334
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: inc/TGM/class-tgm-plugin-activation.php:340
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: inc/TGM/class-tgm-plugin-activation.php:346
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: inc/TGM/class-tgm-plugin-activation.php:352
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: inc/TGM/class-tgm-plugin-activation.php:358
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: inc/TGM/class-tgm-plugin-activation.php:364
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/TGM/class-tgm-plugin-activation.php:370
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/TGM/class-tgm-plugin-activation.php:375
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/TGM/class-tgm-plugin-activation.php:380
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/TGM/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/TGM/class-tgm-plugin-activation.php:386
+#: inc/TGM/class-tgm-plugin-activation.php:827
+#: inc/TGM/class-tgm-plugin-activation.php:2533
+#: inc/TGM/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/TGM/class-tgm-plugin-activation.php:387
+#: inc/TGM/class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/TGM/class-tgm-plugin-activation.php:388
+#: inc/TGM/class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name.
+#: inc/TGM/class-tgm-plugin-activation.php:390
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: inc/TGM/class-tgm-plugin-activation.php:392
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr ""
+
+#. translators: 1: dashboard link.
+#: inc/TGM/class-tgm-plugin-activation.php:394
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/TGM/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/TGM/class-tgm-plugin-activation.php:396
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr ""
+
+#: inc/TGM/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/TGM/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: inc/TGM/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr ""
+
+#: inc/TGM/class-tgm-plugin-activation.php:934
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr ""
+
+#: inc/TGM/class-tgm-plugin-activation.php:934
+#: inc/TGM/class-tgm-plugin-activation.php:937
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr ""
+
+#: inc/TGM/class-tgm-plugin-activation.php:937
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr ""
+
+#: inc/TGM/class-tgm-plugin-activation.php:1121
+#: inc/TGM/class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#. translators: %s: version number
+#: inc/TGM/class-tgm-plugin-activation.php:1982
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inc/TGM/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr ""
+
+#: inc/TGM/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr ""
+
+#: inc/TGM/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/TGM/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr ""
+
+#: inc/TGM/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/TGM/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr ""
+
+#: inc/TGM/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/TGM/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr ""
+
+#: inc/TGM/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr ""
+
+#: inc/TGM/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr ""
+
+#: inc/TGM/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr ""
+
+#. translators: 1: install status, 2: update status
+#: inc/TGM/class-tgm-plugin-activation.php:2342
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#. translators: 1: number of plugins.
+#: inc/TGM/class-tgm-plugin-activation.php:2388
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: inc/TGM/class-tgm-plugin-activation.php:2392
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: inc/TGM/class-tgm-plugin-activation.php:2396
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: inc/TGM/class-tgm-plugin-activation.php:2400
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/TGM/class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: inc/TGM/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr ""
+
+#: inc/TGM/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr ""
+
+#: inc/TGM/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr ""
+
+#: inc/TGM/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: inc/TGM/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr ""
+
+#: inc/TGM/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr ""
+
+#: inc/TGM/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr ""
+
+#: inc/TGM/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr ""
+
+#: inc/TGM/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/TGM/class-tgm-plugin-activation.php:2603
+msgid "Install %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/TGM/class-tgm-plugin-activation.php:2608
+msgid "Update %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/TGM/class-tgm-plugin-activation.php:2614
+msgid "Activate %2$s"
+msgstr ""
+
+#: inc/TGM/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: inc/TGM/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr ""
+
+#: inc/TGM/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr ""
+
+#: inc/TGM/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr ""
+
+#: inc/TGM/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/TGM/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/TGM/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/TGM/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/TGM/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: inc/TGM/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: inc/TGM/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/TGM/class-tgm-plugin-activation.php:3498
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. translators: 1: plugin name, 2: error message.
+#: inc/TGM/class-tgm-plugin-activation.php:3501
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: inc/TGM/class-tgm-plugin-activation.php:3503
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/TGM/class-tgm-plugin-activation.php:3507
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: inc/TGM/class-tgm-plugin-activation.php:3509
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: inc/TGM/class-tgm-plugin-activation.php:3509
+#: inc/TGM/class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr ""
+
+#. translators: 1: plugin name.
+#: inc/TGM/class-tgm-plugin-activation.php:3509
+#: inc/TGM/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr ""
+
+#: inc/TGM/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/TGM/class-tgm-plugin-activation.php:3512
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/TGM/class-tgm-plugin-activation.php:3515
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: inc/TGM/class-tgm-plugin-activation.php:3517
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: inc/TGM/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/TGM/class-tgm-plugin-activation.php:3520
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/TGM/tgm.php:11
+msgid "Getwid – Gutenberg Blocks"
+msgstr ""
+
+#: patterns/404.php
+msgctxt "Pattern title"
+msgid "Page Not Found"
+msgstr ""
+
+#: patterns/404.php:11
+msgid "404"
+msgstr ""
+
+#: patterns/404.php:15
+msgid "Page not found!"
+msgstr ""
+
+#: patterns/404.php:19
+msgid "Sorry, the page you are looking for does not exist or has been moved."
+msgstr ""
+
+#: patterns/404.php:24
+msgid "Return Home"
+msgstr ""
+
+#: patterns/archive.php
+msgctxt "Pattern title"
+msgid "Archives"
+msgstr ""
+
+#: patterns/banner.php
+msgctxt "Pattern title"
+msgid "Banner"
+msgstr ""
+
+#: patterns/banner.php:11
+msgid "Upcoming"
+msgstr ""
+
+#: patterns/banner.php:17
+msgid "Book Now"
+msgstr ""
+
+#: patterns/booking.php
+msgctxt "Pattern title"
+msgid "Booking"
+msgstr ""
+
+#: patterns/booking.php:21
+msgid "Flash"
+msgstr ""
+
+#: patterns/booking.php:30
+msgid "6.6/10"
+msgstr ""
+
+#: patterns/booking.php:35
+msgid "Barry Allen uses his super speed to change the past, but..."
+msgstr ""
+
+#: patterns/booking.php:44
+msgid "Andy Muschietti"
+msgstr ""
+
+#: patterns/booking.php:50
+#: patterns/booking.php:70
+msgid "Get Tickets"
+msgstr ""
+
+#: patterns/booking.php:65
+msgid "Enjoy Tangled at 50% off"
+msgstr ""
+
+#: patterns/booking.php:65
+msgid "– Limited Time Offer!"
+msgstr ""
+
+#: patterns/cart.php
+msgctxt "Pattern title"
+msgid "Cart"
+msgstr ""
+
+#: patterns/cart.php:18
+msgid "You may be interested in…"
+msgstr ""
+
+#: patterns/cart.php:76
+msgid "Your cart is currently empty!"
+msgstr ""
+
+#: patterns/cart.php:84
+msgid "New in store"
+msgstr ""
+
+#: patterns/footer.php
+msgctxt "Pattern title"
+msgid "Footer"
+msgstr ""
+
+#: patterns/footer.php:29
+msgid "123 Fairway Lane Golftown, Golfshire"
+msgstr ""
+
+#: patterns/footer.php:29
+msgid "56789 United States"
+msgstr ""
+
+#: patterns/footer.php:45
+msgid "+1 (555) 123-4567"
+msgstr ""
+
+#: patterns/footer.php:75
+#: patterns/homepage-sidebar.php:45
+msgid "Quick Links"
+msgstr ""
+
+#: patterns/footer.php:80
+msgid "About"
+msgstr ""
+
+#: patterns/footer.php:84
+#: patterns/homepage-sidebar.php:49
+msgid "Coming Soon"
+msgstr ""
+
+#: patterns/footer.php:88
+msgid "Showtimes"
+msgstr ""
+
+#: patterns/footer.php:92
+msgid "Book Tickets"
+msgstr ""
+
+#: patterns/footer.php:96
+msgid "Offers &amp; Discounts"
+msgstr ""
+
+#: patterns/footer.php:100
+msgid "Gift Cards"
+msgstr ""
+
+#: patterns/footer.php:109
+msgid "Contact Us"
+msgstr ""
+
+#: patterns/footer.php:114
+msgid "Customer Support"
+msgstr ""
+
+#: patterns/footer.php:118
+#: patterns/sidebar.php:78
+msgid "Follow Us"
+msgstr ""
+
+#: patterns/footer.php:125
+msgid "Legal"
+msgstr ""
+
+#: patterns/footer.php:130
+msgid "Terms &amp; Conditions"
+msgstr ""
+
+#: patterns/footer.php:134
+msgid "Privacy Policy"
+msgstr ""
+
+#: patterns/footer.php:141
+msgid "Payment Stripe"
+msgstr ""
+
+#: patterns/footer.php:183
+msgid "Cinema House WordPress Theme"
+msgstr ""
+
+#: patterns/footer.php:183
+msgid "Proudly powered by "
+msgstr ""
+
+#: patterns/footer.php:183
+msgid "Ovation Themes"
+msgstr ""
+
+#: patterns/footer.php:183
+msgid "and"
+msgstr ""
+
+#: patterns/footer.php:183
+msgid "WordPress"
+msgstr ""
+
+#: patterns/header-image.php
+msgctxt "Pattern title"
+msgid "Header Image"
+msgstr ""
+
+#: patterns/header.php
+msgctxt "Pattern title"
+msgid "Header"
+msgstr ""
+
+#: patterns/homepage-sidebar.php
+msgctxt "Pattern title"
+msgid "Homepage Sidebar"
+msgstr ""
+
+#: patterns/homepage-sidebar.php:19
+msgid "News Feed"
+msgstr ""
+
+#: patterns/homepage-sidebar.php:23
+msgid "Browse"
+msgstr ""
+
+#: patterns/homepage-sidebar.php:27
+msgid "Watchlist"
+msgstr ""
+
+#: patterns/homepage-sidebar.php:31
+msgid "Booking"
+msgstr ""
+
+#: patterns/homepage-sidebar.php:37
+msgid "Following"
+msgstr ""
+
+#: patterns/homepage-sidebar.php:55
+msgid "Log Out"
+msgstr ""
+
+#: patterns/index-header-image.php
+msgctxt "Pattern title"
+msgid "Index Header Image"
+msgstr ""
+
+#: patterns/index-header-image.php:12
+msgid "blog"
+msgstr ""
+
+#: patterns/latest-movies.php
+msgctxt "Pattern title"
+msgid "Latest Movies"
+msgstr ""
+
+#: patterns/latest-movies.php:10
+msgid "Latest Movies"
+msgstr ""
+
+#: patterns/latest-movies.php:26
+#: patterns/latest-movies.php:72
+#: patterns/latest-movies.php:118
+#: patterns/latest-movies.php:164
+msgid "Watch Trailer"
+msgstr ""
+
+#: patterns/latest-movies.php:33
+msgid "Spider Man"
+msgstr ""
+
+#: patterns/latest-movies.php:37
+#: patterns/latest-movies.php:129
+#: patterns/latest-movies.php:175
+msgid "Action"
+msgstr ""
+
+#: patterns/latest-movies.php:43
+#: patterns/latest-movies.php:89
+#: patterns/latest-movies.php:135
+#: patterns/latest-movies.php:181
+msgid "8.0"
+msgstr ""
+
+#: patterns/latest-movies.php:54
+msgid "Sam Raimi"
+msgstr ""
+
+#: patterns/latest-movies.php:59
+#: patterns/latest-movies.php:105
+#: patterns/latest-movies.php:151
+#: patterns/latest-movies.php:197
+msgid "Release date : "
+msgstr ""
+
+#: patterns/latest-movies.php:59
+#: patterns/latest-movies.php:105
+#: patterns/latest-movies.php:151
+#: patterns/latest-movies.php:197
+msgid "17-02-2025"
+msgstr ""
+
+#: patterns/latest-movies.php:63
+#: patterns/latest-movies.php:109
+#: patterns/latest-movies.php:155
+#: patterns/latest-movies.php:201
+msgid "Genre : "
+msgstr ""
+
+#: patterns/latest-movies.php:63
+#: patterns/latest-movies.php:109
+#: patterns/latest-movies.php:155
+#: patterns/latest-movies.php:201
+msgid "Action, Superhero"
+msgstr ""
+
+#: patterns/latest-movies.php:79
+msgid "Batman"
+msgstr ""
+
+#: patterns/latest-movies.php:83
+msgid "Animated"
+msgstr ""
+
+#: patterns/latest-movies.php:100
+msgid "John Lasseter"
+msgstr ""
+
+#: patterns/latest-movies.php:125
+#: patterns/latest-movies.php:171
+msgid "Avengers"
+msgstr ""
+
+#: patterns/latest-movies.php:146
+#: patterns/latest-movies.php:192
+msgid "Anthony Russo"
+msgstr ""
+
+#: patterns/more-post.php
+msgctxt "Pattern title"
+msgid "More Post"
+msgstr ""
+
+#: patterns/page-title.php
+msgctxt "Pattern title"
+msgid "Page Title"
+msgstr ""
+
+#: patterns/search-product.php
+msgctxt "Pattern title"
+msgid "Search Product"
+msgstr ""
+
+#: patterns/search-product.php:42
+msgid "No products were found matching your selection."
+msgstr ""
+
+#: patterns/search.php
+msgctxt "Pattern title"
+msgid "Search"
+msgstr ""
+
+#: patterns/sidebar.php
+msgctxt "Pattern title"
+msgid "Sidebar"
+msgstr ""
+
+#: patterns/sidebar.php:12
+msgid "Search"
+msgstr ""
+
+#: patterns/sidebar.php:22
+msgid "Popular Posts"
+msgstr ""
+
+#: patterns/sidebar.php:38
+#: patterns/sidebar.php:48
+msgid "Categories"
+msgstr ""
+
+#: patterns/sidebar.php:58
+msgid "Archives"
+msgstr ""
+
+#: patterns/sidebar.php:68
+msgid "Tags"
+msgstr ""
+
+#: patterns/single-product.php
+msgctxt "Pattern title"
+msgid "Single Product"
+msgstr ""
+
+#: styles/blue.json
+msgctxt "Style variation name"
+msgid "Blue"
+msgstr ""
+
+#: styles/blue.json
+#: styles/copper-orange.json
+#: styles/cornflower-blue.json
+#: styles/light.json
+#: styles/lime-green.json
+#: styles/purple.json
+#: styles/yellow-green.json
+#: styles/yellow.json
+#: theme.json
+msgctxt "Color name"
+msgid "Base"
+msgstr ""
+
+#: styles/blue.json
+#: styles/copper-orange.json
+#: styles/cornflower-blue.json
+#: styles/light.json
+#: styles/lime-green.json
+#: styles/purple.json
+#: styles/yellow-green.json
+#: styles/yellow.json
+#: theme.json
+msgctxt "Color name"
+msgid "Primary"
+msgstr ""
+
+#: styles/blue.json
+#: styles/copper-orange.json
+#: styles/cornflower-blue.json
+#: styles/light.json
+#: styles/lime-green.json
+#: styles/purple.json
+#: styles/yellow-green.json
+#: styles/yellow.json
+#: theme.json
+msgctxt "Color name"
+msgid "Primary Light"
+msgstr ""
+
+#: styles/blue.json
+#: styles/copper-orange.json
+#: styles/cornflower-blue.json
+#: styles/light.json
+#: styles/lime-green.json
+#: styles/purple.json
+#: styles/yellow-green.json
+#: styles/yellow.json
+#: theme.json
+msgctxt "Color name"
+msgid "Headings"
+msgstr ""
+
+#: styles/blue.json
+#: styles/copper-orange.json
+#: styles/cornflower-blue.json
+#: styles/light.json
+#: styles/lime-green.json
+#: styles/purple.json
+#: styles/yellow-green.json
+#: styles/yellow.json
+#: theme.json
+msgctxt "Color name"
+msgid "Body Text"
+msgstr ""
+
+#: styles/blue.json
+#: styles/copper-orange.json
+#: styles/cornflower-blue.json
+#: styles/light.json
+#: styles/lime-green.json
+#: styles/purple.json
+#: styles/yellow-green.json
+#: styles/yellow.json
+#: theme.json
+msgctxt "Color name"
+msgid "Section Background"
+msgstr ""
+
+#: styles/blue.json
+#: styles/copper-orange.json
+#: styles/cornflower-blue.json
+#: styles/light.json
+#: styles/lime-green.json
+#: styles/purple.json
+#: styles/yellow-green.json
+#: styles/yellow.json
+#: theme.json
+msgctxt "Color name"
+msgid "Background"
+msgstr ""
+
+#: styles/blue.json
+#: styles/copper-orange.json
+#: styles/cornflower-blue.json
+#: styles/light.json
+#: styles/lime-green.json
+#: styles/purple.json
+#: styles/yellow-green.json
+#: styles/yellow.json
+#: theme.json
+msgctxt "Color name"
+msgid "Foreground"
+msgstr ""
+
+#: styles/blue.json
+#: styles/copper-orange.json
+#: styles/cornflower-blue.json
+#: styles/light.json
+#: styles/lime-green.json
+#: styles/purple.json
+#: styles/yellow-green.json
+#: styles/yellow.json
+#: theme.json
+msgctxt "Color name"
+msgid "Border Color"
+msgstr ""
+
+#: styles/blue.json
+#: styles/copper-orange.json
+#: styles/cornflower-blue.json
+#: styles/light.json
+#: styles/lime-green.json
+#: styles/purple.json
+#: styles/yellow-green.json
+#: styles/yellow.json
+#: theme.json
+msgctxt "Color name"
+msgid "Sidebar Shadow Color"
+msgstr ""
+
+#: styles/copper-orange.json
+msgctxt "Style variation name"
+msgid "Copper Orange"
+msgstr ""
+
+#: styles/cornflower-blue.json
+msgctxt "Style variation name"
+msgid "Cornflower Blue"
+msgstr ""
+
+#: styles/light.json
+msgctxt "Style variation name"
+msgid "Light"
+msgstr ""
+
+#: styles/lime-green.json
+msgctxt "Style variation name"
+msgid "Lime Green"
+msgstr ""
+
+#: styles/purple.json
+msgctxt "Style variation name"
+msgid "Purple"
+msgstr ""
+
+#: styles/yellow-green.json
+msgctxt "Style variation name"
+msgid "yellow-green"
+msgstr ""
+
+#: styles/yellow.json
+msgctxt "Style variation name"
+msgid "Yellow"
+msgstr ""
+
+#: theme.json
+msgctxt "Style variation name"
+msgid "Lite"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Vertical heading to base"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Vertical base to heading"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Heading to base"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Base to heading"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Diagonal heading to base left"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Diagonal heading to base right"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Diagonal base to heading"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Diagonal heading to base"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Vertical heading to primary"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Vertical primary to heading"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Heading to primary"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Primary to heading"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Diagonal heading to primary left"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Diagonal heading to primary right"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Diagonal primary to heading"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Diagonal heading to primary"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Poppins"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Figtree"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Outfit"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Lora"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Inter"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Josefin Sans"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Body Text"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra Small"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Medium"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Regular"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Large"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra Large"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Big"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Huge"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Gigantic"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Banner Title"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Sidebar"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Grid Layout(Archieve posts)"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Left Sidebar(Archieve posts)"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Right Sidebar(Archieve posts)"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Page No Sidebar"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Page No Header Image"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Page Right Sidebar"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Post No Sidebar"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Post Right Sidebar"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Post No Header Image"
+msgstr ""
