@@ -1,0 +1,14 @@
+/*
+Theme Name: my first custom theme
+Theme URI: https://example.com
+Author: Het Agravat
+Author URI: https://example.com
+description: My first custom WordPress theme.
+version:0.1.1
+*/
+
+body{
+    font-family: Arial, sans-serif;
+    margin:0;
+    padding:0;
+}
